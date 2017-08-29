@@ -1,6 +1,0 @@
-#INCLUDE "TOTVS.CH"
-
-USER FUNCTION RCusGer01
-    Alert("Teste")
-
-RETURN NIL
